@@ -7,6 +7,6 @@
 ### solve: https://youtu.be/fkKkojKYZ8U?si=687LuO0BlsLiM91a 
 
 ## How to resolve merge conflicts in Git
-## solve:https://youtu.be/xNVM5UxlFSA?si=5WkvEGUFuUVmDmPX
+### solve:https://youtu.be/xNVM5UxlFSA?si=5WkvEGUFuUVmDmPX
 
 
